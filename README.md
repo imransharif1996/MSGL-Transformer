@@ -3,7 +3,7 @@
 **MSGL-Transformer: A Multi-Scale Global-Local Transformer for Rodent Social Behavior Recognition**
 
 Muhammad Imran Sharif, Doina Caragea  
-Department of Computer Science, Kansas State University
+Department of Computer Science, Kansas State University, Manhattan, Kansas, 66502, USA
 
 ---
 
