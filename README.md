@@ -102,6 +102,10 @@ model = MSGLTransformer(input_dim=28, num_classes=4, seq_len=35)
 
 ---
 
+## Computing Resources
+
+Experiments were conducted on the Beocat High-Performance Computing cluster at Kansas State University using NVIDIA A100 GPU. We thank the Beocat team for providing computational resources.
+
 ## Citation
 
 If you use this code, please cite our paper:
