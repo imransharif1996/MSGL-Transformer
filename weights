@@ -1,0 +1,4 @@
+# Pre-trained Weights
+
+- `best_model_calms21.pt` — CalMS21 Task 1 (87.1% accuracy)
+- `best_model_ratsi.pth` — RatSI Valid-8/Test-2 split (81.48% accuracy)
