@@ -48,10 +48,11 @@ MSGL-Transformer is a lightweight transformer-based model for recognizing rodent
 
 | Metric | Value |
 |--------|-------|
-| Accuracy | 87.1% |
-| F1-Score | 0.8745 |
+| Overall accuracy | 87.1% |
+| Weighted F1-Score | 0.8745 |
+| Avg. per-class accuracy | 80.5% |
 | Attack F1 | 0.5829 |
-| vs HSTWFormer | +10.7% |
+| vs HSTWFormer (avg. per-class) | +4.1 points |
 
 ---
 
